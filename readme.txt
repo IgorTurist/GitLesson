@@ -1,1 +1,1 @@
-Не удается найти указанный файл.
+These changes we hve to obtain in the clonned repositary!
